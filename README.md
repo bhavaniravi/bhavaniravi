@@ -45,7 +45,7 @@
 
 <a href="https://www.linkedin.com/in/bhavanir/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavaniravi" height="30" width="40" /></a>
 <a href="https://twitter.com/BhavaniRavi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhavaniravi" height="30" width="40" /></a>
-  <a href="https://bhavaniravi.com" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-globe-8.png" alt="bhavaniravi" height="30" width="40" /></a>
+  <a href="https://bhavaniravi.com" target="blank"><img align="center" src="https://img.icons8.com/pastel-glyph/344/hyperlink--v2.png 2x" alt="bhavaniravi" height="30" width="40" /></a>
  <a href = "mailto: bhavanicodes@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
