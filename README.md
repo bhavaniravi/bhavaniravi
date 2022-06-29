@@ -22,7 +22,7 @@
   
 ### Here's what I do well
 
-🐍 Help companies Build Backend systems with Python 
+🐍 Backend Systems (Python/Flask/Django) (Node/Express/Prisma) (Postgres/Mongo)
 
 ☁️ Deploy systems in Cloud, Docker/Kubernetes Environment
 
