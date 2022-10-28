@@ -10,10 +10,10 @@
 
 
 
-<p align="center">
+<p align="center" style="font-size:18px;">
   <em>
-    Hi I'm Bhavani Ravi <b>Independent Software Consultant</b> Love building deployable, maintainable Backend systems. 
-    I aspire to start my own venture someday, a Indie maker cannot ignore Javascript hence learning to live in peace with it. I love opensource to watch, learn, contribute and grow with them.
+    Hi I'm Bhavani Ravi <b>Independent Software Consultant</b> Specialized in Python Backend systems, Devops Infra and Data Engineering.
+    I build, teach, write, and speak tech
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="10" /> <b><i>Learn By Doing </i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30" />
