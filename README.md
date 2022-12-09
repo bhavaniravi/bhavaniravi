@@ -26,9 +26,9 @@
 
 ☁️ Deploy systems in Cloud, Docker/Kubernetes Environment
 
-🟩 [Contribute to open source](https://bhavaniravi.com/projects/)
+🟩 [Contribute to open source](https://www.bhavaniravi.com/about-me-1/opensource-contributions)
 
-🖊 **Write** blogs at [bhavaniravi.com](https://bhavaniravi.com/blog)
+🖊 **Write** blogs at [bhavaniravi.com](https://bhavaniravi.com/)
 
 👩🏻‍🏫 **Teach** PythonToProject Bootcamp
 
