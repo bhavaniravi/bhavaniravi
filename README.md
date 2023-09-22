@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, <a href="https://bhavaniravi.com"> I'm Bhavani Ravi </a></h1>
+<h1 align="center">Hi 👋🏻, I'm<a href="https://bhavaniravi.com">  Bhavani Ravi </a></h1>
 <h3 align="center">Backend Engineer | Technical Writer | Trainer </h3>
 
 <p align="center" style="font-size:18px;">
